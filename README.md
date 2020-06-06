@@ -1,1 +1,4 @@
-# home-lab-3d-model
+# lab-3d-model
+
+Lab setup modelling
+
