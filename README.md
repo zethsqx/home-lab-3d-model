@@ -1,7 +1,7 @@
 # lab-3d-model
 
 ## Overview
-This is the visualization of lab setup using 3d model
+This is the visualization of lab setup using 3d modelling
 
 Components:
 - 1U Server
